@@ -3,6 +3,9 @@ shinyUI(pageWithSidebar(
 headerPanel("Visualizing College Football With rCharts"),
 
 sidebarPanel(
+  HTML('<style type="text/css">
+        .row-fluid .span4{width: 22%;}
+        </style>'), 
   
 selectInput(inputId = "x",
             label = "Choose X",
