@@ -1,6 +1,6 @@
 require(rCharts)
 shinyUI(pageWithSidebar(
-headerPanel("Visualizing College Football With rCharts"),
+headerPanel("Visualizing College Football With rCharts: By Tyler Hunt"),
 
 sidebarPanel(
   HTML('<style type="text/css">

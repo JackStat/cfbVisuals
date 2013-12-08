@@ -22,6 +22,10 @@ shinyServer(function(input, output) {
   sizing <- reactive({
     paste("#! function(d){return d.", input$size, "} !#", sep="")
   })
+  
+  reactive({
+    ranks<-arrange(ranks, input$grp)
+  })
 
   output$myChart <- renderChart({
   
