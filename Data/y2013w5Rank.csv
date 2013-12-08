@@ -1,0 +1,199 @@
+"Rank","Team","Conference","Score","Elo","True Margin","Wins","Losses"
+1,"Baylor","Big 12 Conference",9.22,2239,99.98,3,0
+2,"Oregon","Pac-12 Conference",9.21,2252,85.47,4,0
+3,"Washington","Pac-12 Conference",8.88,2253,73.12,4,0
+4,"Louisville","American Athletic Conference",8.73,2250,71.7,4,0
+5,"Ohio State","Big Ten Conference",8.65,2263,54.89,5,0
+6,"Florida State","Atlantic Coast Conference",8.64,2252,66.73,4,0
+7,"Alabama","Southeastern Conference",8.42,2253,58.25,4,0
+8,"Clemson","Atlantic Coast Conference",8.37,2252,57.49,4,0
+9,"Stanford","Pac-12 Conference",8.22,2253,51.03,4,0
+10,"Texas Tech","Big 12 Conference",8.02,2252,45.88,4,0
+11,"Maryland","Atlantic Coast Conference",7.89,2250,43.27,4,0
+12,"Missouri","Southeastern Conference",7.85,2251,41.43,4,0
+13,"UCLA","Pac-12 Conference",7.79,2238,52.79,3,0
+14,"Oklahoma","Big 12 Conference",7.77,2253,37.04,4,0
+15,"Miami (Florida)","Atlantic Coast Conference",7.68,2249,37.43,4,0
+16,"LSU","Southeastern Conference",7.59,2237,47.79,4,1
+17,"Texas A&M","Southeastern Conference",7.52,2239,43.23,4,1
+18,"Northwestern","Big Ten Conference",7.49,2250,30.46,4,0
+19,"Georgia","Southeastern Conference",7.44,2230,50.52,3,1
+20,"Houston","American Athletic Conference",7.43,2251,27.88,4,0
+21,"Virginia Tech","Atlantic Coast Conference",7.35,2242,34.44,4,1
+22,"Iowa","Big Ten Conference",7.24,2239,33.36,4,1
+23,"Michigan","Big Ten Conference",7.21,2250,20.53,4,0
+24,"Arizona State","Pac-12 Conference",7.18,2228,44.54,3,1
+25,"Northern Illinois","Mid-American Conference",7.17,2249,20.19,4,0
+26,"Arizona","Pac-12 Conference",7.17,2225,46.76,3,1
+27,"Illinois","Big Ten Conference",7.11,2224,45.38,3,1
+28,"Penn State","Big Ten Conference",7.02,2226,40.91,3,1
+29,"Florida","Southeastern Conference",7.02,2226,40.31,3,1
+30,"Ball State","Mid-American Conference",7.01,2238,27.73,4,1
+31,"Georgia Tech","Atlantic Coast Conference",6.99,2226,39.85,3,1
+32,"Fresno State","Mountain West Conference",6.97,2250,13,4,0
+33,"Oklahoma State","Big 12 Conference",6.89,2224,38.8,3,1
+34,"Oregon State","Pac-12 Conference",6.85,2240,19.95,4,1
+35,"Auburn","Southeastern Conference",6.85,2226,35.19,3,1
+36,"UCF","American Athletic Conference",6.85,2225,36.21,3,1
+37,"South Carolina","Southeastern Conference",6.82,2227,32.91,3,1
+38,"Utah","Pac-12 Conference",6.77,2225,33.61,3,1
+39,"Nebraska","Big Ten Conference",6.68,2225,30.51,3,1
+40,"Wisconsin","Big Ten Conference",6.67,2212,43.71,3,2
+41,"Bowling Green","Mid-American Conference",6.64,2236,16.69,4,1
+42,"Mississippi","Southeastern Conference",6.56,2225,26.13,3,1
+43,"East Carolina","Conference USA",6.56,2224,27.49,3,1
+44,"North Carolina State","Atlantic Coast Conference",6.5,2225,24.43,3,1
+45,"Rutgers","American Athletic Conference",6.49,2228,20.46,3,1
+46,"Minnesota","Big Ten Conference",6.49,2236,12.14,4,1
+47,"Utah State","Mountain West Conference",6.45,2213,35.45,3,2
+48,"Pittsburgh","Atlantic Coast Conference",6.44,2228,19.32,3,1
+49,"Ohio","Mid-American Conference",6.37,2227,17.96,3,1
+50,"Boise State","Mountain West Conference",6.32,2213,31.39,3,2
+51,"Cincinnati","American Athletic Conference",6.31,2225,17.54,3,1
+52,"Texas State","Sun Belt Conference",6.26,2227,13.78,3,1
+53,"Mississippi State","Southeastern Conference",6.24,2202,40.32,2,2
+54,"Tennessee","Southeastern Conference",6.18,2214,26.32,3,2
+55,"USC","Pac-12 Conference",6.18,2213,26.71,3,2
+56,"Washington State","Pac-12 Conference",6.17,2213,25.87,3,2
+57,"McNeese State","Southland",6.09,2214,23.23,1,0
+58,"Navy","Independent",6.02,2212,22.1,2,1
+59,"Syracuse","Atlantic Coast Conference",6.01,2203,32.01,2,2
+60,"West Virginia","Big 12 Conference",5.98,2215,17.96,3,2
+61,"Wyoming","Mountain West Conference",5.95,2212,20.4,3,2
+62,"TCU","Big 12 Conference",5.94,2202,31.39,2,2
+63,"Northern Iowa","MVFC",5.93,2214,17.86,1,0
+64,"Indiana","Big Ten Conference",5.93,2201,31.36,2,2
+65,"Towson","Colonial",5.9,2214,16.82,1,0
+66,"North Dakota State","MVFC",5.88,2214,16.41,1,0
+67,"BYU","Independent",5.88,2203,27.87,2,2
+68,"Chattanooga","Southern",5.88,2213,16.72,1,0
+69,"Arkansas","Southeastern Conference",5.85,2211,18.36,3,2
+70,"Western Kentucky","Sun Belt Conference",5.84,2215,13.86,3,2
+71,"Vanderbilt","Southeastern Conference",5.83,2212,16.02,3,2
+72,"Michigan State","Big Ten Conference",5.81,2224,2.6,3,1
+73,"Marshall","Conference USA",5.8,2199,29.66,2,2
+74,"Duke","Atlantic Coast Conference",5.76,2212,13.89,3,2
+75,"Notre Dame","Independent",5.63,2215,6.26,3,2
+76,"North Texas","Conference USA",5.54,2200,19.69,2,2
+77,"Eastern Illinois","OVC",5.47,2200,16.68,1,1
+78,"Kansas State","Big 12 Conference",5.45,2198,18.78,2,2
+79,"Buffalo","Mid-American Conference",5.43,2201,14.63,2,2
+80,"Texas","Big 12 Conference",5.41,2201,14.14,2,2
+81,"Colorado","Pac-12 Conference",5.37,2213,-0.59,2,1
+82,"Virginia","Atlantic Coast Conference",5.36,2200,13.46,2,2
+83,"Tulane","Conference USA",5.31,2212,-0.68,3,2
+84,"Boston College","Atlantic Coast Conference",5.23,2200,9.38,2,2
+85,"Rice","Conference USA",5.21,2201,7.05,2,2
+86,"Nevada","Mountain West Conference",5.19,2213,-6.16,3,2
+87,"Louisiana-Lafayette","Sun Belt Conference",5.18,2201,6.52,2,2
+88,"Kansas","Big 12 Conference",5.17,2212,-5.62,2,1
+89,"South Alabama","Sun Belt Conference",5.13,2200,5.43,2,2
+90,"Southern Illinois","MVFC",5.1,2186,19.45,0,1
+91,"Fordham","Patriot",5.08,2212,-9.33,1,0
+92,"Eastern Washington","Big Sky",5.06,2198,5.29,1,1
+93,"Middle Tennessee","Conference USA",5.04,2210,-7.49,3,2
+94,"UNLV","Mountain West Conference",5.02,2215,-14.03,3,2
+95,"Jacksonville State","OVC",4.97,2212,-12.41,1,0
+96,"Toledo","Mid-American Conference",4.96,2190,11.33,2,3
+97,"Richmond","Colonial",4.94,2187,13.52,0,1
+98,"Maine","Colonial",4.9,2200,-2.34,1,1
+99,"Iowa State","Big 12 Conference",4.88,2188,10.97,1,2
+100,"Samford","Southern",4.8,2200,-4.93,1,1
+101,"Memphis","American Athletic Conference",4.73,2189,4.31,1,2
+102,"Kentucky","Southeastern Conference",4.7,2175,18.72,1,3
+103,"Stony Brook","Big South",4.65,2185,5.71,0,1
+104,"Missouri State","MVFC",4.6,2186,3.55,0,1
+105,"William & Mary","Colonial",4.59,2186,2.62,0,1
+106,"Bethune-Cookman","Mid-Eastern",4.59,2200,-11.57,1,1
+107,"Eastern Kentucky","OVC",4.47,2186,-1.52,0,1
+108,"California","Pac-12 Conference",4.45,2177,8.72,1,3
+109,"Southern Utah","Big Sky",4.43,2200,-17.01,1,1
+110,"Colorado State","Mountain West Conference",4.43,2189,-5.1,2,3
+111,"UTSA","Conference USA",4.4,2189,-6.78,2,3
+112,"North Carolina","Atlantic Coast Conference",4.4,2176,7.71,1,3
+113,"Portland State","Big Sky",4.39,2186,-3.5,0,1
+114,"Army","Independent",4.36,2187,-5.82,2,3
+115,"Southeast Missouri State","OVC",4.33,2187,-6.53,0,1
+116,"Arkansas State","Sun Belt Conference",4.33,2187,-7.25,2,3
+117,"Wake Forest","Atlantic Coast Conference",4.32,2188,-8.08,2,3
+118,"Villanova","Colonial",4.3,2186,-7.03,0,1
+119,"Southeastern Louisiana","Southland",4.29,2186,-7.02,0,1
+120,"James Madison","Colonial",4.28,2186,-7.11,0,1
+121,"Montana State","Big Sky",4.28,2186,-7.31,0,1
+122,"Illinois State","MVFC",4.15,2186,-12.1,0,1
+123,"Kent State","Mid-American Conference",4.15,2188,-13.38,2,3
+124,"South Carolina State","Mid-Eastern",4.12,2187,-13.58,0,1
+125,"Louisiana-Monroe","Sun Belt Conference",4.11,2187,-14.45,2,3
+126,"Northern Arizona","Big Sky",4.05,2186,-15.38,0,1
+127,"Troy","Sun Belt Conference",4,2184,-14.57,2,3
+128,"Liberty","Big South",3.97,2186,-18.13,0,1
+129,"Central Arkansas","Southland",3.95,2186,-18.93,0,1
+130,"Sam Houston State","Southland",3.92,2187,-20.37,0,1
+131,"Wofford","Southern",3.88,2186,-21.2,0,1
+132,"San Jose State","Mountain West Conference",3.87,2174,-8.41,1,3
+133,"SMU","American Athletic Conference",3.84,2174,-9.05,1,3
+134,"Prairie View A&M","Southwestern",3.81,2187,-23.98,0,1
+135,"Northern Colorado","Big Sky",3.81,2186,-23.57,0,1
+136,"Idaho State","Big Sky",3.78,2188,-25.74,0,1
+137,"San Diego State","Mountain West Conference",3.77,2175,-12.31,1,3
+138,"Old Dominion","Colonial",3.74,2174,-12.44,0,2
+139,"South Dakota","MVFC",3.73,2186,-26.23,0,1
+140,"Howard","Mid-Eastern",3.71,2186,-26.68,0,1
+141,"New Hampshire","Colonial",3.62,2186,-29.33,0,1
+142,"South Dakota State","MVFC",3.59,2187,-31.44,0,1
+143,"Alcorn St.","Southwestern",3.55,2186,-31.57,0,1
+144,"Akron","Mid-American Conference",3.55,2163,-6.74,1,4
+145,"Tulsa","Conference USA",3.55,2174,-18.71,1,3
+146,"Stephen F. Austin","Southland",3.54,2187,-33.18,0,1
+147,"Eastern Michigan","Mid-American Conference",3.5,2174,-20.3,1,3
+148,"Tennessee Tech","OVC",3.49,2187,-34.62,0,1
+149,"Florida Atlantic","Conference USA",3.49,2162,-7.7,1,4
+150,"Jackson State","Southwestern",3.43,2186,-36.2,0,1
+151,"UAB","Conference USA",3.41,2175,-24.4,1,3
+152,"New Mexico","Mountain West Conference",3.41,2174,-22.92,1,3
+153,"Presbyterian","Big South",3.4,2186,-37.13,0,1
+154,"Norfolk State","Mid-Eastern",3.39,2186,-36.77,0,1
+155,"Cal Poly","Big Sky",3.38,2173,-23.14,0,2
+156,"Delaware","Colonial",3.22,2187,-43.63,0,1
+157,"UC Davis","Big Sky",3.22,2186,-42.48,0,1
+158,"Connecticut","American Athletic Conference",3.22,2151,-4.6,0,4
+159,"Colgate","Patriot",3.19,2186,-44.31,0,1
+160,"UTEP","Conference USA",3.18,2171,-27.9,1,3
+161,"Tennessee-Martin","OVC",3.17,2186,-44.1,0,1
+162,"Air Force","Mountain West Conference",3.17,2161,-16.92,1,4
+163,"Southern University","Southwestern",3.12,2186,-46.42,0,1
+164,"Indiana State","MVFC",3.09,2173,-32.76,0,2
+165,"Youngstown State","MVFC",3.09,2188,-48.59,0,1
+166,"N.C. Central","Mid-Eastern",3,2186,-50.39,0,1
+167,"Louisiana Tech","Conference USA",2.99,2160,-22.54,1,4
+168,"Purdue","Big Ten Conference",2.98,2163,-25.6,1,4
+169,"Wagner","Northeast",2.97,2185,-50.31,0,1
+170,"Western Illinois","MVFC",2.94,2174,-38.99,0,2
+171,"Gardner-Webb","Big South",2.94,2187,-53.19,0,1
+172,"Western Carolina","Southern",2.89,2173,-39.45,0,2
+173,"Idaho","Independent",2.89,2164,-29.39,1,4
+174,"Virginia Military","Big South",2.84,2186,-55.98,0,1
+175,"Nicholls State","Southland",2.83,2185,-54.98,1,2
+176,"Hawai'i","Mountain West Conference",2.83,2150,-16.08,0,4
+177,"Morgan State","Mid-Eastern",2.81,2173,-42.21,0,2
+178,"Murray State","OVC",2.77,2174,-44.57,0,2
+179,"Temple","American Athletic Conference",2.76,2148,-16.09,0,4
+180,"Grambling","Southwestern",2.7,2186,-59.88,0,1
+181,"Lamar","Southland",2.65,2174,-48.49,0,2
+182,"Sacramento State","Big Sky",2.64,2174,-48.54,0,2
+183,"Florida A&M","Mid-Eastern",2.63,2188,-64.3,0,1
+184,"Elon","Southern",2.53,2186,-66.31,0,1
+185,"Central Michigan","Mid-American Conference",2.52,2161,-38.3,1,4
+186,"South Florida","American Athletic Conference",2.46,2150,-28.92,0,4
+187,"Miami (Ohio)","Mid-American Conference",2.43,2150,-29.42,0,4
+188,"Massachusetts","Mid-American Conference",2.43,2149,-28.34,0,4
+189,"Georgia State","Sun Belt Conference",2.37,2149,-30.74,0,4
+190,"Arkansas-Pine Bluff","Southwestern",2.35,2186,-72.33,0,1
+191,"Southern Mississippi","Conference USA",2.32,2151,-34.13,0,4
+192,"Austin Peay","OVC",2.19,2161,-50.05,0,3
+193,"Florida International","Conference USA",2.11,2151,-41.77,0,4
+194,"Northwestern State","Southland",2.04,2173,-67.26,0,2
+195,"Weber State","Big Sky",1.9,2174,-73.67,0,2
+196,"Western Michigan","Mid-American Conference",1.69,2138,-41,0,5
+197,"New Mexico State","Independent",1.49,2137,-47.03,0,5
+198,"Savannah State","Mid-Eastern",1.24,2175,-96.85,0,2
