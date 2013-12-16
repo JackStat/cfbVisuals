@@ -2,7 +2,7 @@
 require(shiny)
 require(rCharts)
 require(plyr)
-options(RCHART_WIDTH = 800, RCHART_HEIGHT = 432)
+options(RCHART_WIDTH = 900, RCHART_HEIGHT = 600)
 
 ranks<-read.csv("Data/y2013w14Rank.csv")
 names(ranks) = gsub("\\.", "", names(ranks))
@@ -11,8 +11,6 @@ ranks<-ranks[rowSums(cbind(ranks$Wins, ranks$Losses))>5,]
 ranks$Conference<-droplevels(ranks$Conference)
 
 ranks$Conference<-as.numeric(ranks$Conference)
-
-ranks<-arrange(ranks, Conference)
 
 shinyServer(function(input, output) {
   formulaText <- reactive({

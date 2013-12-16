@@ -4,7 +4,7 @@ headerPanel("Visualizing College Football With rCharts: By Tyler Hunt"),
 
 sidebarPanel(
   HTML('<style type="text/css">
-        .row-fluid .span4{width: 22%;}
+        .row-fluid .span4{width: 21%;}
         </style>'), 
   
 selectInput(inputId = "x",
@@ -52,9 +52,10 @@ helpText("Conference Key:",
          "11 = Sun Belt Conference")
 
 ),
-
 mainPanel(
-showOutput("myChart", "nvd3")
-  )
+  div(class='wrapper',
+      tags$style(".Nvd3{ height: 600px; width: 900px;}"),
+      showOutput("myChart","Nvd3")
+  ))
 ))
 
