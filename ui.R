@@ -6,6 +6,7 @@ sidebarPanel(
   HTML('<style type="text/css">
         .row-fluid .span4{width: 21%;}
         </style>'), 
+  HTML("<a href='http://psychoanalytix.com'> <img src='Logo_transparent_background.png'></a> "),
   
 selectInput(inputId = "x",
             label = "Choose X",
