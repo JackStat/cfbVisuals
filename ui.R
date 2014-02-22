@@ -55,7 +55,7 @@ helpText("Conference Key:",
 mainPanel(
   div(class='wrapper',
       tags$style(".Nvd3{ height: 600px; width: 900px;}"),
-      showOutput("myChart","Nvd3")
+      showOutput("myChart","nvd3")
   ))
 ))
 
